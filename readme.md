@@ -1,0 +1,1 @@
+This is a tower defense game where the player must write the source code which the towers run off. Towers will not automatically shoot so this allows for you to make your towers shoot whoever they want.
