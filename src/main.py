@@ -265,7 +265,7 @@ class NoReferenceInterface():
         """
         # will execute self.name=callback for all callbacks in the dictionary
         for name, callback in callbacks.items():
-            exec("self."+name+"=callback")
+            setattr(self, name, callback);
         self.code_start, self.code_update = None, None
         if check_faulty_cb(code):
             error_cb()
