@@ -3,6 +3,8 @@ This is a tower defense game where the player must write the source code which t
 Towers will not automatically shoot so this allows for you to make your towers shoot whoever they want.
 
 # Installation
+[Game Download](https://github.com/CameronAavik/Programmable-TD/raw/master/download/Programmable%20Tower%20Defense.zip)
+
 Once you have downloaded the .zip there should be only one file of interest. This file is main.py and is what needs to be run to play the game. First, extract the .zip file to a separate folder.
 Before you play the game you will need to have Python 3 installed on your computer. You can download Python from the below link
 
